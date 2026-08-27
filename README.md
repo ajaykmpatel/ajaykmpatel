@@ -388,7 +388,7 @@ deployment and scaling.
 
 <p align="center">
 
-🌐 **Portfolio:** [YOUR_PORTFOLIO_URL](https://ajaykmpatel.github.io)
+🌐 **Portfolio:** https://ajaykmpatel.github.io
 
 📧 **Email:** ajaykmpatel47@gmail.com
 
